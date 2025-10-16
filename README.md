@@ -67,8 +67,7 @@
 
 ### 📊 Stats
 
-![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=erbibeksah&show_icons=true&theme=gruvbox)
-
-![Bibek's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=erbibeksah&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=erbibeksah&show_icons=true&theme=gruvbox)
+![](https://nirzak-streak-stats.vercel.app/?user=erbibeksah&theme=tokyonight)
 
 #
