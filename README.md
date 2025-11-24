@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Bibek, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009867.png" width="13"/> <b>Siraha, Nepal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/206/206606.png" width="13"/> <b>New Delhi, India</b>. </p>
+<p>Welcome to my page! </br> I'm Bibek, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009867.png" width="13"/> <b>Siraha, Nepal.</b></p>
 
 <h3>Things I code with</h3>
 
